@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 46,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 46,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 39,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a1d425a4a5d588c089462ca3f0cc6675295f1c4">
+        <dex dex="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8990b1f915146a1f42515e686c5035ea70d69bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a81d8fedebeb065495c6063092de446151d63a68\classes.dex" />
+    </item>
+
+</items>

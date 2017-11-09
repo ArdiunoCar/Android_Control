@@ -1,0 +1,7 @@
+#Thu Nov 09 21:38:39 CST 2017
+base.0=D\:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8990b1f915146a1f42515e686c5035ea70d69bc1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a81d8fedebeb065495c6063092de446151d63a68\\classes.dex
+base.1=D\:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a81d8fedebeb065495c6063092de446151d63a68
+file.0=D\:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8990b1f915146a1f42515e686c5035ea70d69bc1\\classes.dex

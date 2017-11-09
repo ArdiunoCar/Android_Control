@@ -1,0 +1,4 @@
+#Thu Nov 09 20:31:13 CST 2017
+base.0=D\:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=D\:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
