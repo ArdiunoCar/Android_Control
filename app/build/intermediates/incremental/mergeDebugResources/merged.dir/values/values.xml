@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Gallery"><attr name="android:galleryItemBackground"/></declare-styleable>
+    <string name="app_name">wifi遥控1.1</string>
+    <string name="hello">hello</string>
+</resources>

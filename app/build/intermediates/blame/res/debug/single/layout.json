@@ -1,7 +1,19 @@
 [
     {
+        "merged": "D:\\elvis_file\\github\\Android_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mymainfrm.xml",
+        "source": "D:\\elvis_file\\github\\Android_Control\\app\\src\\main\\res\\layout\\mymainfrm.xml"
+    },
+    {
+        "merged": "D:\\elvis_file\\github\\Android_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pictureshow.xml",
+        "source": "D:\\elvis_file\\github\\Android_Control\\app\\src\\main\\res\\layout\\pictureshow.xml"
+    },
+    {
         "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myvideo.xml",
         "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\src\\main\\res\\layout\\myvideo.xml"
+    },
+    {
+        "merged": "D:\\elvis_file\\github\\Android_Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myvideo.xml",
+        "source": "D:\\elvis_file\\github\\Android_Control\\app\\src\\main\\res\\layout\\myvideo.xml"
     },
     {
         "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pictureshow.xml",
