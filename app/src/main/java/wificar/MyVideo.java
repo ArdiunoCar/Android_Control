@@ -50,15 +50,16 @@ import android.view.WindowManager;
 import android.widget.AbsoluteLayout;
 import android.widget.Button;
 import android.widget.FrameLayout;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 
 public class MyVideo extends Activity
 {
-    private Button TakePhotos;
-	private Button ViewPhotos;
-	private Button BtnForward,BtnBackward,BtnLeft,BtnRight,BtnStop,update;
+    private ImageView TakePhotos;
+	private ImageView ViewPhotos;
+	private ImageView BtnForward,BtnBackward,BtnLeft,BtnRight,BtnStop,update;
 	private TextView receiveDataText;
     URL videoUrl;
 	public static String CameraIp;
@@ -80,22 +81,22 @@ public class MyVideo extends Activity
             StrictMode.setThreadPolicy(policy);
         }
         r = (MySurfaceView)findViewById(R.id.mySurfaceViewVideo);
-        TakePhotos = (Button)findViewById(R.id.TakePhoto);
-        ViewPhotos = (Button)findViewById(R.id.ViewPhoto);
+        TakePhotos = (ImageView)findViewById(R.id.TakePhoto);
+        ViewPhotos = (ImageView) findViewById(R.id.ViewPhoto);
         
-        BtnForward = (Button)findViewById(R.id.button_forward);
-        BtnBackward = (Button)findViewById(R.id.button_backward);
-        BtnLeft = (Button)findViewById(R.id.button_left);
-        BtnRight = (Button)findViewById(R.id.button_right);
-        BtnStop= (Button)findViewById(R.id.button_stop);
+        BtnForward = (ImageView)findViewById(R.id.button_forward);
+        BtnBackward = (ImageView)findViewById(R.id.button_backward);
+        BtnLeft = (ImageView)findViewById(R.id.button_left);
+        BtnRight = (ImageView)findViewById(R.id.button_right);
+        BtnStop= (ImageView)findViewById(R.id.button_stop);
 //        update = (Button)findViewById(R.id.updata);
 		receiveDataText = (TextView)findViewById(R.id.receive_data_text);
 
 		Intent intent = getIntent();
 		//从Intent当中根据key取得value
-		CameraIp = intent.getStringExtra("CameraIp");		
-		CtrlIp= intent.getStringExtra("ControlUrl");		
-		CtrlPort=intent.getStringExtra("Port");		
+		CameraIp = "http://192.168.1.1:8080/?action=stream";
+		CtrlIp= "192.168.1.1";
+		CtrlPort="2001";
 		Log.d("wifirobot", "control is :++++"+CtrlIp);
 		Log.d("wifirobot", "CtrlPort is :++++"+CtrlPort);
 		r.GetCameraIP(CameraIp);
@@ -324,10 +325,6 @@ public class MyVideo extends Activity
 			}
 			return "";
 		}
-
-
-
-
 
 		public  byte[] readStream(InputStream inStream) throws Exception {
 			int count = 0;

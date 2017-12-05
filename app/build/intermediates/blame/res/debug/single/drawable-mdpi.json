@@ -1,10 +1,30 @@
 [
     {
-        "merged": "D:\\elvis_file\\github\\Android_Control\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
-        "source": "D:\\elvis_file\\github\\Android_Control\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrows_circle_down.png",
+        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\src\\main\\res\\drawable-mdpi\\arrows_circle_down.png"
     },
     {
-        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
-        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_carV1.2\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrows_circle_up.png",
+        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\src\\main\\res\\drawable-mdpi\\arrows_circle_up.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\take_photo.png",
+        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\src\\main\\res\\drawable-mdpi\\take_photo.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrows_circle_right.png",
+        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\src\\main\\res\\drawable-mdpi\\arrows_circle_right.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_stop.png",
+        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\src\\main\\res\\drawable-mdpi\\button_stop.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrows_circle_left.png",
+        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\src\\main\\res\\drawable-mdpi\\arrows_circle_left.png"
+    },
+    {
+        "merged": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\view_photo.png",
+        "source": "D:\\Android\\MyApplication\\AndroidStudioProjects\\Android_Control_v1.3\\app\\src\\main\\res\\drawable-mdpi\\view_photo.png"
     }
 ]

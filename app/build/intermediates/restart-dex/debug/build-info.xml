@@ -6,94 +6,94 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1510234714193"
-    token="4044537771650245140"
+    timestamp="1512448727471"
+    token="-8352479371391721071"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="405" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="172" />
+        duration="0" />
     <task
         name="verifier"
-        duration="46" />
+        duration="0" />
 
     <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\outputs\apk\app-debug.apk"
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1510234714193"
+        timestamp="1512448727471"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\outputs\apk\app-debug.apk"
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyApplication\AndroidStudioProjects\Android_Control_v1.3\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyApplication\AndroidStudioProjects\Android_carV1.2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>

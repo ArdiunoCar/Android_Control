@@ -32,10 +32,10 @@ import android.widget.Toast;
 public class MySurfaceView extends SurfaceView implements Callback {
 	private SurfaceHolder sfh;
 	private Canvas canvas;
-	URL videoUrl;
+//	URL videoUrl;
 	private String urlstr;
-	HttpURLConnection conn;
-	Bitmap bmp;
+//	HttpURLConnection conn;
+//	Bitmap bmp;
 	private Paint p;
 	InputStream inputstream = null;
 	private Bitmap mBitmap;
@@ -340,7 +340,6 @@ public class MySurfaceView extends SurfaceView implements Callback {
 								default:
 									status = 0;
 									break;
-
 								}
 							}
 							////////add bye elvis //////////////
@@ -352,7 +351,6 @@ public class MySurfaceView extends SurfaceView implements Callback {
 					ex.printStackTrace();
 				}
 			}
-
 		}
 	}
 
